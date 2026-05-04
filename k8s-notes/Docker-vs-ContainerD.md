@@ -20,7 +20,7 @@
 
 Docker's user experience made working with containers extremely simple, which is why it became the dominant container tool. Kubernetes was originally built to orchestrate Docker specifically — the two were tightly coupled, and early Kubernetes only worked with Docker.
 
-As Kubernetes grew in popularity, other container runtimes like **Rocket** wanted to integrate. Kubernetes needed to support runtimes beyond just Docker.
+As Kubernetes grew in popularity, other container runtimes like **Rkt** wanted to integrate. Kubernetes needed to support runtimes beyond just Docker.
 
 ---
 
